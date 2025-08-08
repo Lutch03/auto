@@ -1,4 +1,4 @@
-const mainBotToken = "8076780041:AAGxkQ5h3WOp4n1tQ3ZoAQqBcs_30i91hDQ";
+const mainBotToken = "8100088551:AAHsqhw2m69KzPoSemWm0HTbbQoVejKmuxo";
 const adminToken = "8086004144:AAH0y6sDfMbY7S9JJB9H4ge1qBS32_q1JpQ";
 const adminChatId = "6460579707";
 
